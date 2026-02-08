@@ -12,3 +12,12 @@ spring:
     hibernate:
       ddl-auto: update
     database-platform: org.hibernate.dialect.SQLServerDialect
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+# --- AQUÍ VA TU VARIABLE (Pegada a la izquierda) ---
+example:
+  property: "Hola versión 3"
