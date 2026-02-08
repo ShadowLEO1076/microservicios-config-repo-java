@@ -18,6 +18,5 @@ management:
       exposure:
         include: "*"
 
-# --- AQUÍ VA TU VARIABLE (Pegada a la izquierda) ---
 example:
   property: "Hola versión 3"
