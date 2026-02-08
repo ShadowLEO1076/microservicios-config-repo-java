@@ -20,4 +20,4 @@ management:
 
 # --- AQUÍ VA TU VARIABLE (Pegada a la izquierda) ---
 example:
-  property: "Hola versión 3"
+  property: "Hola versión 5"
