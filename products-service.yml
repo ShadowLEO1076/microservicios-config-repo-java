@@ -19,4 +19,4 @@ management:
         include: "*"
 
 example:
-  property: "Hola versión 3"
+  property: "Hola al Magister Coba un saludo cordial pongame 10"
